@@ -1,6 +1,6 @@
 # <img src="https://github.com/user-attachments/assets/81949bc0-d602-4293-9dd0-0f1d7afa5070" alt="grey cat staring at you"/> Goob Sink
 
-Goob Sink is a vanila++ modpack for 1.20.1 Fabric, made by (and mostly for) members of [DELUX SHAVE](https://discord.gg/GAZQFkZc2r).
+Goob Sink is a vanila++ modpack for 1.20.1 Fabric, made by (and mostly for) members of the [Darkspace demogroup](https://demozoo.org/groups/148893/).
 
 It's basically our attempt at a "Better Minecraft" kind of pack, providing new biomes, dimensions, mobs, food, structures, technology, and building blocks, while not adding anything too un-vanilla-like such as electricity and nuclear reactors. :D
 
